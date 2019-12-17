@@ -1,0 +1,18 @@
+cachesim.exe
+astar.trace
+mcf.trace
+perlbench.trace
+cache_experiments/tester.cpp
+cache_experiments/tester.exe
+cache_experiments/project1_experiments_data.txt
+build/project1_submit.tar.gz
+CMakeFiles/3.13.4/CompilerIdCXX/CMakeCXXCompilerId.cpp
+CMakeFiles/3.13.4/CMakeSystem.cmake
+CMakeFiles/CMakeOutput.log
+CMakeFiles/cmake.check_cache
+CMakeFiles/CMakeError.log
+CMakeCache.txt
+verification_fixed_prefetch_bug (1).log
+verification_script (2).sh
+verification_script_new.sh
+bzip2.trace
